@@ -1,0 +1,1 @@
+ابتدا یک فایل ایجاد کردم و با دستور git init  به کانفینگ وصل شدم سپس 4 فایل به اسم های script.js , app.py , index.html , style.css ایجاد کردم و با دستور های remot,pushوbranch وارد گیت هاب کردم سپس دو فایل index.html , syle.css را حذف کردم
